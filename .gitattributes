@@ -1,2 +1,2 @@
 *.css linguist-language=javascript
-*.html linguist-language=css
+./index.html -linguist-documentation
